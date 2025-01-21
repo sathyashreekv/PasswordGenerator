@@ -27,13 +27,14 @@ A secure and user-friendly **Password Generator** built using HTML, CSS, and Jav
 
 ##  How to Use
 1 .Adjust the slider to set your desired password length.
+<br>
 2.Select the character types you want to include:
    <br>
-   Uppercase
+   - **Uppercase**
    <br>
-   Lowercase
+   - **Lowercase**
    <br>
-   Numbers
+   - **Numbers**
    <br>
    Special characters
    <br>
