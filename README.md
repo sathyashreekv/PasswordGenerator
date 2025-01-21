@@ -1,5 +1,5 @@
 # PasswordGenerator
-# Password Generator
+
 
 ## Overview
 A secure and user-friendly **Password Generator** built using HTML, CSS, and JavaScript. This tool helps users create strong passwords tailored to their preferences, ensuring online safety and convenience.
